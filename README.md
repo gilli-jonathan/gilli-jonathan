@@ -68,9 +68,11 @@ In questo periodo sto approfondendo React e TypeScript, lo sviluppo mobile con R
 
 <br><br>
 
-<img src="https://github-readme-stats.shion.dev/api?username=gilli-jonathan&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gilli-jonathan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilli-jonathan/gilli-jonathan/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gilli-jonathan/gilli-jonathan/output/snake.svg" />
+  <img alt="Il serpente si mangia il grafico dei contributi" src="https://raw.githubusercontent.com/gilli-jonathan/gilli-jonathan/output/snake.svg" />
+</picture>
 
 <br><br>
 
