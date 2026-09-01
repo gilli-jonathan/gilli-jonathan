@@ -85,4 +85,6 @@ In questo periodo sto approfondendo React e TypeScript, lo sviluppo mobile con R
 *Dietro ogni interfaccia c'è un'idea.*
 *Il mio lavoro è darle forma.*
 
+un grazie alla persona che mi ha aiutato con il file readme, sei speciale ❤️
+
 </div>
